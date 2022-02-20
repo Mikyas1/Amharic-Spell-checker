@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/home/mike/.local/share/virtualenvs/pythonProject1-S-xy4vAi/bin/activate",
+  "python.terminal.activateEnvironment": true,
+  "python.formatting.provider": "black"
+}
